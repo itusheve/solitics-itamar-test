@@ -1,0 +1,65 @@
+[{
+  "course": {
+    "name": "נרשמי וובינר שיווק",
+    "date": "13 / 5 / 2020 11: 42"
+  },
+  "state": {
+    "total": 0
+  }
+}, {
+  "course": {
+    "name": "נרשמים עם קופון הנחה",
+    "date": "13 / 5 / 2020 11: 42"
+  },
+  "state": {
+    "total": 195,
+    "active": 195,
+    "new": 1,
+    "removed": 0,
+    "blocked": 0,
+    "stopped": 0
+  }
+}, {
+  "course": {
+    "name": "הגיעו לסמינר ראשון ושני",
+    "date": "13 / 5 / 2020 11: 42"
+  },
+  "isDynamic": true,
+  "state": {
+    "total": 100,
+    "active": 124,
+    "new": 0,
+    "removed": 14,
+    "blocked": 0,
+    "stopped": 10
+  }
+}, {
+  "course": {
+    "name": "כל הנרשמים",
+    "date": "13 / 5 / 2020 11: 42"
+  },
+  "isAllList": true,
+  "state": {
+    "total": 1739,
+    "active": 1759,
+    "new": 47,
+    "removed": 17,
+    "blocked": 2,
+    "stopped": 1
+  }
+
+}, {
+  "course": {
+    "name": "נרשמי בטא",
+    "date": "13 / 5 / 2020 11: 42"
+  },
+  "isDynamic": true,
+  "state": {
+    "total": 5,
+    "active": 5,
+    "new": 0,
+    "removed": 0,
+    "blocked": 0,
+    "stopped": 0
+  }
+}]

@@ -1,0 +1,14 @@
+{
+  "dir": "ltr",
+  "date_dir": "rtl",
+  "active": "Actives",
+  "new": "Added today",
+  "removed": "Removed",
+  "blocked": "Blocked",
+  "stopped": "Stopped",
+  "total": "Total",
+  "EMPTY_STATE": "There are no subscribers yet. To add subs click on import button or look at the menu",
+  "dynamic": "dynamic",
+  "main": "main",
+  "empty": "empty"
+}

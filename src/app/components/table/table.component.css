@@ -1,0 +1,68 @@
+.b-green {
+  border-bottom: 3px solid #008000;
+}
+
+.b-gray {
+  border-bottom: 0.5px solid #d7d9db;
+}
+
+td {
+  padding: 30px 0px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.active {
+  color: #008000;
+}
+
+.new {
+  color: #305e7a;
+}
+
+.removed {
+  color: #800000;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
+
+label {
+  display: block;
+}
+
+td:first-child { width: 40% ;}
+
+
+.course-container {
+  max-width: 160px;
+}
+
+.course-container__date {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  max-width: 160px;
+}
+.course-container__name {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  padding-right: 20px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.c-black {
+  color: #000000;
+}
+
+.c-blue {
+  color: #2183c0;
+}
+
+div > svg {
+  cursor: pointer;
+}
+
